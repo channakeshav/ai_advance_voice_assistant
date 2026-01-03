@@ -1,0 +1,7 @@
+{
+  "name": "Magma Care Voice Agent",
+  "description": "AI-powered insurance advisor using Gemini Live API for real-time voice conversations and data capture.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
